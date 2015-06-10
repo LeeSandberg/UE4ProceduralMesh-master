@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{CEAA0F86-4A80-2F99-2778-15913E9897D1}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "ProceduralMesh",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
